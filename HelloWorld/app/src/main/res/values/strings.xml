@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="message">What the largest continent?</string>
+    <string name ="button_text">BANANA</string>
+    <string name ="correct_response">CORRECT</string>
+    <string name ="incorrect_response">CORRECT</string>
+</resources>
+
